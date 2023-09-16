@@ -1,0 +1,117 @@
+---
+object: card
+id: e3312a53-871b-4e0c-994c-21a247c5fe7b
+oracle_id: e88027a6-24cc-4a8b-86db-734f26149ea8
+multiverse_ids: []
+tcgplayer_id: 206663
+cardmarket_id: 245064
+name: Oran-Rief, the Vastwood
+printed_name: 巨森、オラン＝リーフ
+lang: ja
+released_at: '2010-01-01'
+uri: https://api.scryfall.com/cards/e3312a53-871b-4e0c-994c-21a247c5fe7b
+scryfall_uri: https://scryfall.com/card/pres/221%E2%98%85/ja/%E5%B7%A8%E6%A3%AE%E3%80%81%E3%82%AA%E3%83%A9%E3%83%B3%EF%BC%9D%E3%83%AA%E3%83%BC%E3%83%95?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/3/e3312a53-871b-4e0c-994c-21a247c5fe7b.jpg?1607109459
+  normal: https://cards.scryfall.io/normal/front/e/3/e3312a53-871b-4e0c-994c-21a247c5fe7b.jpg?1607109459
+  large: https://cards.scryfall.io/large/front/e/3/e3312a53-871b-4e0c-994c-21a247c5fe7b.jpg?1607109459
+  png: https://cards.scryfall.io/png/front/e/3/e3312a53-871b-4e0c-994c-21a247c5fe7b.png?1607109459
+  art_crop: https://cards.scryfall.io/art_crop/front/e/3/e3312a53-871b-4e0c-994c-21a247c5fe7b.jpg?1607109459
+  border_crop: https://cards.scryfall.io/border_crop/front/e/3/e3312a53-871b-4e0c-994c-21a247c5fe7b.jpg?1607109459
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+printed_type_line: 土地
+oracle_text: |-
+  Oran-Rief, the Vastwood enters the battlefield tapped.
+  {T}: Add {G}.
+  {T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.
+printed_text: |-
+  巨森、オラン＝リーフはタップ状態で戦場に出る。
+  {T}：あなたのマナ・プールに{G}を加える。
+  {T}：このターンに戦場に出た緑の各クリーチャーの上に、それぞれ＋１/＋１カウンターを１個置く。
+colors: []
+color_identity:
+- G
+keywords: []
+produced_mana:
+- G
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 94031b15-d768-4087-af9d-a3f9d1a29fde
+set: pres
+set_name: Resale Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/94031b15-d768-4087-af9d-a3f9d1a29fde
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apres&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pres?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e3312a53-871b-4e0c-994c-21a247c5fe7b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae88027a6-24cc-4a8b-86db-734f26149ea8&unique=prints
+collector_number: 221★
+digital: false
+rarity: rare
+watermark: colorpie
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mike Bierek
+artist_ids:
+- e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7
+illustration_id: 76a20bdd-443e-4a77-bfe4-8149db1a3625
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- instore
+edhrec_rank: 536
+penny_rank: 4007
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: '8.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Oran-Rief%2C+the+Vastwood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Oran-Rief%2C+the+Vastwood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Oran-Rief%2C+the+Vastwood
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/206663?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Oran-Rief%2C+the+Vastwood&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Oran-Rief%2C+the+Vastwood&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
